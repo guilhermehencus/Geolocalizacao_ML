@@ -1,6 +1,6 @@
 # **ANÁLISE, TRATAMENTO, AUTOMATIZAÇÃO E MACHINE LEARNING: GEOLOCALIZAÇÃO REGIÃO**  
 ## **Objetivo**  
-- Localizar a região de cada pessoa com suas coordenadas dentro de um munícipio na utilização de funções relacionadas a dados geoespacias;
+- Localizar a região de cada pessoa com suas coordenadas dentro de um munícipio na utilização de funções relacionadas a dados geoespaciais;
 - A partir de localizada, construir um modelo de aprendizagem de máquina que realizará o mesmo próposito de prever a região;
 - Separar os dados em uma amostra, usada na criação do modelo, e o restante para previsão da região pelo modelo;
 - Empregar quatro variáveis preditivas criadas na conversão de latitude e longitude, destaque na utilização de algoritmo de clusterização agrupamento hierárquico;
